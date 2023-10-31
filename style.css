@@ -21,3 +21,8 @@ p {
     color:black;
     padding: 50px, 25px;   
 }
+
+.href{
+    color: aquamarine;
+    print-color-adjust: 0.3;
+}
