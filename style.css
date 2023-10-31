@@ -1,0 +1,23 @@
+
+div {
+    background-color: antiquewhite;
+    font-size: 24px;
+    padding: 5px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: lightgray;
+}
+
+header {
+    align-items: center;
+    text-align: center;
+    text-wrap: flex;
+    text-emphasis-color: aqua;
+}
+
+p {
+    align-items: center;
+    text-align: center;
+    color:black;
+    padding: 50px, 25px;   
+}
