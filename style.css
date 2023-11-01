@@ -1,4 +1,3 @@
-
 div {
     background-color: antiquewhite;
     font-size: 24px;
@@ -8,7 +7,7 @@ div {
     border-color: lightgray;
 }
 
-header {
+h2 {
     align-items: center;
     text-align: center;
     text-wrap: flex;
@@ -22,7 +21,8 @@ p {
     padding: 50px, 25px;   
 }
 
-.href{
+a {
     color: aquamarine;
     print-color-adjust: 0.3;
 }
+
